@@ -1,0 +1,27 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bajak%
+}{%
+Bajak%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+bajak2014lectures}
+\APACinsertmetastar {%
+bajak2014lectures}%
+\begin{APACrefauthors}%
+Bajak, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Lectures aren’t just boring, they’re ineffective,
+  too, study finds} {Lectures aren’t just boring, they’re ineffective, too,
+  study finds}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science}{12}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
