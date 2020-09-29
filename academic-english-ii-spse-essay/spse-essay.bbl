@@ -24,4 +24,35 @@ Bajak, A.%
 \APACjournalVolNumPages{Science}{12}{}{}.
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Freeman%
+\ \protect \BOthers {.}}{%
+Freeman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+freeman-active-learning-2014}
+\APACinsertmetastar {%
+freeman-active-learning-2014}%
+\begin{APACrefauthors}%
+Freeman, S.%
+, Eddy, S\BPBI L.%
+, McDonough, M.%
+, Smith, M\BPBI K.%
+, Okoroafor, N.%
+, Jordt, H.%
+\BCBL {}\ \BBA {} Wenderoth, M\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Active learning increases student performance in
+  science, engineering, and mathematics} {Active learning increases student
+  performance in science, engineering, and mathematics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{111}{23}{8410--8415}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
