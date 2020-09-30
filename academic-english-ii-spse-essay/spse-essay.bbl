@@ -1,6 +1,38 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Baepler%
+, Walker%
+, Brooks%
+, Saichaie%
+\BCBL {}\ \BBA {} Petersen%
+}{%
+Baepler%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+guide-to-teaching-alc}
+\APACinsertmetastar {%
+guide-to-teaching-alc}%
+\begin{APACrefauthors}%
+Baepler, P.%
+, Walker, J.%
+, Brooks, D\BPBI C.%
+, Saichaie, K.%
+\BCBL {}\ \BBA {} Petersen, C\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {A guide to teaching in the active learning classroom: History,
+  research, and practice} {A guide to teaching in the active learning
+  classroom: History, research, and practice}.
+\newblock
+\APACaddressPublisher{}{Stylus Publishing, LLC}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Bajak%
 }{%
 Bajak%
@@ -53,6 +85,89 @@ Freeman, S.%
 \newblock
 \APACjournalVolNumPages{Proceedings of the National Academy of
   Sciences}{111}{23}{8410--8415}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hyun%
+, Ediger%
+\BCBL {}\ \BBA {} Lee%
+}{%
+Hyun%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+satisfaction-active-learning}
+\APACinsertmetastar {%
+satisfaction-active-learning}%
+\begin{APACrefauthors}%
+Hyun, J.%
+, Ediger, R.%
+\BCBL {}\ \BBA {} Lee, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Students' Satisfaction on Their Learning Process in
+  Active Learning and Traditional Classrooms.} {Students' satisfaction on their
+  learning process in active learning and traditional classrooms.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Teaching and Learning in
+  Higher Education}{29}{1}{108--118}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mann%
+\ \BBA {} Robinson%
+}{%
+Mann%
+\ \BBA {} Robinson%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+boredom-among-students}
+\APACinsertmetastar {%
+boredom-among-students}%
+\begin{APACrefauthors}%
+Mann, S.%
+\BCBT {}\ \BBA {} Robinson, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Boredom in the lecture theatre: An investigation into
+  the contributors, moderators and outcomes of boredom amongst university
+  students} {Boredom in the lecture theatre: An investigation into the
+  contributors, moderators and outcomes of boredom amongst university
+  students}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{British Educational Research Journal}{35}{2}{243--258}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ubah%
+}{%
+Ubah%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+predictors-of-boredom}
+\APACinsertmetastar {%
+predictors-of-boredom}%
+\begin{APACrefauthors}%
+Ubah, J\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Predictors of boredom at lectures: Medical Students’
+  experience} {Predictors of boredom at lectures: Medical students’
+  experience}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Advances in Social Sciences Research
+  Journal}{5}{1}{91--95}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
