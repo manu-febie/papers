@@ -57,6 +57,58 @@ Bajak, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bovill%
+}{%
+Bovill%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+cocreation-in-learning}
+\APACinsertmetastar {%
+cocreation-in-learning}%
+\begin{APACrefauthors}%
+Bovill, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Co-creation in learning and teaching: the case for a
+  whole-class approach in higher education} {Co-creation in learning and
+  teaching: the case for a whole-class approach in higher education}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Higher Education}{79}{6}{1023--1037}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cook-Sather%
+, Bovill%
+\BCBL {}\ \BBA {} Felten%
+}{%
+Cook-Sather%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+engaging-students}
+\APACinsertmetastar {%
+engaging-students}%
+\begin{APACrefauthors}%
+Cook-Sather, A.%
+, Bovill, C.%
+\BCBL {}\ \BBA {} Felten, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Engaging students as partners in learning and teaching: A guide
+  for faculty} {Engaging students as partners in learning and teaching: A guide
+  for faculty}.
+\newblock
+\APACaddressPublisher{}{John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Freeman%
 \ \protect \BOthers {.}}{%
 Freeman%
