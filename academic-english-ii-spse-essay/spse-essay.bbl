@@ -1,6 +1,31 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Ahern-Rindell%
+}{%
+Ahern-Rindell%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+voices-in-the-study-of-teaching-and-learning}
+\APACinsertmetastar {%
+voices-in-the-study-of-teaching-and-learning}%
+\begin{APACrefauthors}%
+Ahern-Rindell, A\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Engaging Student Voices in the Study of Teaching and
+  Learning} {Engaging student voices in the study of teaching and
+  learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Council on Undergraduate Research
+  Quarterly}{33}{1}{48--49}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Baepler%
 , Walker%
 , Brooks%
@@ -54,6 +79,57 @@ Bajak, A.%
   study finds}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Science}{12}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bergmann%
+\ \BBA {} Sams%
+}{%
+Bergmann%
+\ \BBA {} Sams%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+flip-your-classroom}
+\APACinsertmetastar {%
+flip-your-classroom}%
+\begin{APACrefauthors}%
+Bergmann, J.%
+\BCBT {}\ \BBA {} Sams, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Flip your classroom: Reach every student in every class every
+  day} {Flip your classroom: Reach every student in every class every day}.
+\newblock
+\APACaddressPublisher{}{International society for technology in education}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bovill%
+}{%
+Bovill%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+investigation-of-cocreation}
+\APACinsertmetastar {%
+investigation-of-cocreation}%
+\begin{APACrefauthors}%
+Bovill, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An investigation of co-created curricula within higher
+  education in the UK, Ireland and the USA} {An investigation of co-created
+  curricula within higher education in the uk, ireland and the usa}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Innovations in Education and Teaching
+  International}{51}{1}{15--25}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -140,6 +216,36 @@ Freeman, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Goedhart%
+, Blignaut-van Westrhenen%
+, Moser%
+\BCBL {}\ \BBA {} Zweekhorst%
+}{%
+Goedhart%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+the-flipped-classroom}
+\APACinsertmetastar {%
+the-flipped-classroom}%
+\begin{APACrefauthors}%
+Goedhart, N.%
+, Blignaut-van Westrhenen, N.%
+, Moser, C.%
+\BCBL {}\ \BBA {} Zweekhorst, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The flipped classroom: supporting a diverse group of
+  students in their learning} {The flipped classroom: supporting a diverse
+  group of students in their learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Learning Environments Research}{22}{2}{297--310}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hyun%
 , Ediger%
 \BCBL {}\ \BBA {} Lee%
@@ -166,6 +272,32 @@ Hyun, J.%
 \newblock
 \APACjournalVolNumPages{International Journal of Teaching and Learning in
   Higher Education}{29}{1}{108--118}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Koh%
+}{%
+Koh%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+understanding-flipped-classroom}
+\APACinsertmetastar {%
+understanding-flipped-classroom}%
+\begin{APACrefauthors}%
+Koh, J\BPBI H\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Four pedagogical dimensions for understanding flipped
+  classroom practices in higher education: A systematic review} {Four
+  pedagogical dimensions for understanding flipped classroom practices in
+  higher education: A systematic review}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Educational Sciences: Theory \&
+  Practice}{19}{4}{14--33}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
