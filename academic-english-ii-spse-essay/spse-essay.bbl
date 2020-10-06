@@ -1,6 +1,17 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {lessons-in-learning}}{%
+\APACcitebtitle {lessons-in-learning}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+lessons-in-learning}
+\APACinsertmetastar {%
+lessons-in-learning}%
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Ahern-Rindell%
 }{%
 Ahern-Rindell%
@@ -327,6 +338,65 @@ Mann, S.%
   students}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{British Educational Research Journal}{35}{2}{243--258}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nielsen%
+, Bean%
+\BCBL {}\ \BBA {} Larsen%
+}{%
+Nielsen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+impact-of-flipped-classroom}
+\APACinsertmetastar {%
+impact-of-flipped-classroom}%
+\begin{APACrefauthors}%
+Nielsen, P\BPBI L.%
+, Bean, N\BPBI W.%
+\BCBL {}\ \BBA {} Larsen, R\BPBI A\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Impact of a Flipped Classroom Model of Learning on a
+  Large Undergraduate Statistics Class.} {The impact of a flipped classroom
+  model of learning on a large undergraduate statistics class.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics Education Research Journal}{17}{1}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Roopa%
+, Bagavad~Geetha%
+, Rani%
+\BCBL {}\ \BBA {} Chacko%
+}{%
+Roopa%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+what-students-want}
+\APACinsertmetastar {%
+what-students-want}%
+\begin{APACrefauthors}%
+Roopa, S.%
+, Bagavad~Geetha, M.%
+, Rani, A.%
+\BCBL {}\ \BBA {} Chacko, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What type of lectures students want?-a reaction
+  evaluation of dental students} {What type of lectures students want?-a
+  reaction evaluation of dental students}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of clinical and diagnostic researc:
+  JCDR}{7}{10}{2244}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

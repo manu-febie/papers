@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.9.22)  5 OCT 2020 11:25
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.9.22)  7 OCT 2020 00:06
  restricted system commands enabled.
 **spse-essay.tex
 (./spse-essay.tex
@@ -323,27 +323,27 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 16.
+(Font)              <14.4> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
+(Font)              <7> on input line 17.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./spse-essay.bbl)
 [3] (./spse-essay.aux))
 
 Here is how much of LuaTeX's memory you used:
- 4073 strings out of 480885
+ 4081 strings out of 480885
  100000,460012 words of node,token memory allocated
  431 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 53 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:477,3:69,4:23,5:41,6:14,7:4035,8:1,9:73,10:14,11:299
- 21663 multiletter control sequences out of 65536+600000
+   avail lists: 2:577,3:87,4:30,5:45,6:17,7:4608,8:1,9:77,10:23,11:332
+ 21671 multiletter control sequences out of 65536+600000
  53 fonts using 7429563 bytes
- 44i,6n,73p,1725b,206s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 44i,6n,73p,1865b,206s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/fonts/TTF/Timesi.TTF></usr/share/fonts/TTF/Timesbd.TTF></usr/share/f
 onts/TTF/Times.TTF>
-Output written on spse-essay.pdf (3 pages, 84184 bytes).
+Output written on spse-essay.pdf (3 pages, 87457 bytes).
 
 PDF statistics: 35 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
