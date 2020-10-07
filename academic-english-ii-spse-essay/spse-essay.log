@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.9.22)  7 OCT 2020 09:56
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.9.22)  7 OCT 2020 10:11
  restricted system commands enabled.
 **spse-essay.tex
 (./spse-essay.tex
@@ -332,18 +332,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (./spse-essay.bbl [4]) [5] (./spse-essay.aux))
 
 Here is how much of LuaTeX's memory you used:
- 4081 strings out of 480885
+ 4079 strings out of 480885
  100000,460012 words of node,token memory allocated
  431 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 53 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:461,3:66,4:34,5:57,6:14,7:4571,8:1,9:65,10:24,11:316
- 21671 multiletter control sequences out of 65536+600000
+   avail lists: 2:482,3:71,4:34,5:59,6:14,7:4571,8:1,9:66,10:24,11:316
+ 21669 multiletter control sequences out of 65536+600000
  53 fonts using 7429563 bytes
- 44i,6n,73p,1865b,230s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 44i,6n,73p,1865b,232s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/fonts/TTF/Timesi.TTF></usr/share/fonts/TTF/Timesbd.TTF></usr/share/f
 onts/TTF/Times.TTF>
-Output written on spse-essay.pdf (5 pages, 88175 bytes).
+Output written on spse-essay.pdf (5 pages, 88161 bytes).
 
 PDF statistics: 41 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

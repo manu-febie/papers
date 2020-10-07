@@ -12,58 +12,45 @@ Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Database file #1: ../ref.bib
-Warning--entry type for "lessons-in-learning" isn't style-file defined
---line 181 of file ../ref.bib
-I was expecting a `,' or a `}'---line 182 of file ../ref.bib
- :     
- :     title={Study shows students in ‘active learning’ classrooms learn more than they think},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-Warning--No author, editor, title, type, and howpublished in lessons-in-learning
-ptr=1, stack=
-
----the literal stack isn't empty for entry lessons-in-learning
-while executing---line 5079 of file apacite.bst
-You've used 16 entries,
+You've used 15 entries,
             6951 wiz_defined-function locations,
-            1364 strings with 13871 characters,
-and the built_in function-call counts, 32237 in all, are:
-= -- 3956
+            1363 strings with 13852 characters,
+and the built_in function-call counts, 31173 in all, are:
+= -- 3763
 > -- 245
-< -- 1702
-+ -- 1751
+< -- 1694
++ -- 1748
 - -- 30
-* -- 2140
-:= -- 6222
-add.period$ -- 61
-call.type$ -- 16
-change.case$ -- 256
+* -- 2112
+:= -- 6157
+add.period$ -- 60
+call.type$ -- 15
+change.case$ -- 255
 chr.to.int$ -- 0
-cite$ -- 35
-duplicate$ -- 780
-empty$ -- 1196
+cite$ -- 30
+duplicate$ -- 771
+empty$ -- 1123
 format.name$ -- 418
-if$ -- 5950
+if$ -- 5654
 int.to.chr$ -- 0
-int.to.str$ -- 48
+int.to.str$ -- 45
 missing$ -- 0
-newline$ -- 388
+newline$ -- 377
 num.names$ -- 120
-pop$ -- 458
+pop$ -- 450
 preamble$ -- 1
-purify$ -- 61
+purify$ -- 60
 quote$ -- 0
-skip$ -- 2039
+skip$ -- 1879
 stack$ -- 0
-substring$ -- 1860
-swap$ -- 463
-text.length$ -- 31
+substring$ -- 1859
+swap$ -- 460
+text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1376
-warning$ -- 1
-while$ -- 144
+type$ -- 1200
+warning$ -- 0
+while$ -- 143
 width$ -- 0
-write$ -- 488
-(There were 2 error messages)
+write$ -- 473
