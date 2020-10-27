@@ -1,0 +1,135 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Arboleda%
+, Sandberg%
+\BCBL {}\ \BBA {} Vilain%
+}{%
+Arboleda%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+psychosexualDifferentiation}
+\APACinsertmetastar {%
+psychosexualDifferentiation}%
+\begin{APACrefauthors}%
+Arboleda, V\BPBI A.%
+, Sandberg, D\BPBI E.%
+\BCBL {}\ \BBA {} Vilain, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {DSDs: genetics, underlying pathologies and psychosexual
+  differentiation} {Dsds: genetics, underlying pathologies and psychosexual
+  differentiation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature Reviews Endocrinology}{10}{10}{603}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Liszewski%
+, Peebles%
+, Yeung%
+\BCBL {}\ \BBA {} Arron%
+}{%
+Liszewski%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+nonbinaryGenderAwareness}
+\APACinsertmetastar {%
+nonbinaryGenderAwareness}%
+\begin{APACrefauthors}%
+Liszewski, W.%
+, Peebles, J\BPBI K.%
+, Yeung, H.%
+\BCBL {}\ \BBA {} Arron, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Persons of nonbinary gender—awareness, visibility, and
+  health disparities} {Persons of nonbinary gender—awareness, visibility, and
+  health disparities}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The New England journal of medicine}{379}{25}{2391}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Raising 'Theybies': Letting Kids Choose Their Gender | NBC
+  News - YouTube}}{%
+\APACcitebtitle {Raising 'Theybies': Letting Kids Choose Their Gender | NBC
+  News - YouTube}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+raisingTheybies}
+\APACinsertmetastar {%
+raisingTheybies}%
+\APACrefbtitle {Raising 'Theybies': Letting Kids Choose Their Gender | NBC News
+  - YouTube.} {Raising 'theybies': Letting kids choose their gender | nbc news
+  - youtube.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.youtube.com/watch?v=AfzL8BrNSLQ&ab_channel=NBCNews}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schmitt%
+\ \protect \BOthers {.}}{%
+Schmitt%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+personalityAndGenderDifferences}
+\APACinsertmetastar {%
+personalityAndGenderDifferences}%
+\begin{APACrefauthors}%
+Schmitt, D\BPBI P.%
+, Long, A\BPBI E.%
+, McPhearson, A.%
+, O'Brien, K.%
+, Remmert, B.%
+\BCBL {}\ \BBA {} Shah, S\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Personality and gender differences in global
+  perspective} {Personality and gender differences in global
+  perspective}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Psychology}{52}{}{45--56}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Soh%
+}{%
+Soh%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+endOfGender2020Soh}
+\APACinsertmetastar {%
+endOfGender2020Soh}%
+\begin{APACrefauthors}%
+Soh, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2020}.
+\newblock
+\APACrefbtitle {The End of Gender: Debunking the Myths about Sex and Identity
+  in Our Society} {The end of gender: Debunking the myths about sex and
+  identity in our society}.
+\newblock
+\APACaddressPublisher{}{Threshold Editions}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
