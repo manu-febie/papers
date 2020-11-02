@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.9.22)  28 OCT 2020 01:56
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2020.9.22)  28 OCT 2020 13:49
  restricted system commands enabled.
 **essay.tex
 (./essay.tex
@@ -328,64 +328,65 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 18.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./essay.bbl
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./essay.bbl
+[3]
 ! Misplaced alignment tab character &.
 <argument> https://www.youtube.com/watch?v=AfzL8BrNSLQ&
                                             ab_channel=NBCNews
-l.78 ....com/watch?v=AfzL8BrNSLQ&ab_channel=NBCNews}
+l.205 ...com/watch?v=AfzL8BrNSLQ&ab_channel=NBCNews}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
 $
-l.78 ....com/watch?v=AfzL8BrNSLQ&ab_channel=NBCNews}
+l.205 ...com/watch?v=AfzL8BrNSLQ&ab_channel=NBCNews}
                                                   
 ? 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 78.
+(Font)              <12> on input line 205.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 78.
+(Font)              <8> on input line 205.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 78.
+(Font)              <6> on input line 205.
 ! Extra }, or forgotten $.
 <recently read> \egroup 
         
-l.78 ....com/watch?v=AfzL8BrNSLQ&ab_channel=NBCNews}
+l.205 ...com/watch?v=AfzL8BrNSLQ&ab_channel=NBCNews}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
 $
-l.79   \end{APACrefURL}
-                     
+l.206   \end{APACrefURL}
+                      
 ? 
 ! Missing } inserted.
 <inserted text> 
 }
-l.79   \end{APACrefURL}
-                     
+l.206   \end{APACrefURL}
+                      
 ? 
-[2]) [3] (./essay.aux))
+) [4] (./essay.aux))
 
 Here is how much of LuaTeX's memory you used:
- 4064 strings out of 480885
+ 4085 strings out of 480885
  100000,460012 words of node,token memory allocated
  431 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 53 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:210,3:42,4:11,5:53,6:10,7:2896,8:16,9:53,10:10,11:219
- 21654 multiletter control sequences out of 65536+600000
+   avail lists: 2:363,3:51,4:22,5:45,6:10,7:3197,8:16,9:51,10:16,11:259
+ 21675 multiletter control sequences out of 65536+600000
  65 fonts using 8558099 bytes
- 44i,6n,73p,1810b,234s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 44i,6n,73p,1475b,234s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf></usr/share
 /fonts/TTF/Timesbd.TTF></usr/share/fonts/TTF/Timesi.TTF></usr/share/fonts/TTF/Ti
 mes.TTF></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on essay.pdf (3 pages, 111011 bytes).
+Output written on essay.pdf (4 pages, 118340 bytes).
 
-PDF statistics: 54 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+PDF statistics: 57 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
