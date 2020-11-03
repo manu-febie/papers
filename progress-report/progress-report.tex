@@ -1,0 +1,45 @@
+\documentclass[12pt]{article}
+
+\usepackage{geometry}
+\usepackage{fontspec}
+\usepackage{listings}
+
+\setmainfont{Times New Roman}
+
+\begin{document}
+
+\title{Pervasive Software Engineering \\ \large Progress Report}
+\author{Imanuel Febie, 2201835800}
+\maketitle
+
+\section*{Week 6}
+Our project requires the use of a Raspberry Pi. Even though my team is temporarily using one from BINUS, I decided to buy a Raspberry Pi for myself so I could test things on my own too. Currently I have written a couple of lines of code that handles `text to speech`, relying on a couple of Python libraries like gTTS.
+
+\\
+
+\lstset{
+    language=python,
+    numbers=left,
+    firstnumber=1,
+    numberfirstline=true
+}
+\begin{lstlisting}[frame=single]
+import os
+import time
+import playsound
+import speech_recognition as sr
+
+from gtts import gTTS
+
+def speak(text):
+    tts = gTTS(text=text, lang='en')
+    filename = 'voice.mp3'
+    tts.save(filename)
+    playsound.playsound(filename)
+
+speak('Welcome home')
+\end{lstlisting}
+
+This is a simple implementation but it should be enough for our project needs. Furthermore, I had a large part in writing the project report introduction and methodology. The tasks at hand are researching more and communicating with my partners, which has been going very well so far.
+
+\end{document}
